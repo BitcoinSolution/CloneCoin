@@ -1,0 +1,9 @@
+Building CloneCoin
+
+See doc/readme-qt.rst for instructions on building CloneCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CloneCoin.
+
+See doc/build-*.txt for instructions on building CloneCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of CloneCoin.
