@@ -19,8 +19,8 @@ Short: CLONE
 Algorithm SHA256
 
 
-RPC Port: 21451
-P2P Port: 21454
+RPC Port: 64101
+P2P Port: 63106
 
 
 
